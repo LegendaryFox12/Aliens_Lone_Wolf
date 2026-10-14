@@ -442,8 +442,6 @@ def missionThree():
             "the colonists. At least you went out with honor. "
         )
         gameplay.dead()
-    
-    
 
     print(
         "You bring the remaining colonists back to the surface. A military aircraft "
